@@ -27,7 +27,7 @@ class HMC(object):
         random_state (RandomState): for reproductibility
         step (int): number of steps in leapfrog integrator
         eps (float): epsillon in leapfrog integrator
-        warmstart (int): Number of iterations for warm-up (ie before sampling)
+        warm_start (int): Number of iterations for warm-up (ie before sampling)
         
         Outputs:
         --------
