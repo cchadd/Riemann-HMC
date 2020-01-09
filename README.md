@@ -1,7 +1,7 @@
 # Riemann-HMC
 *Computational Statistics project - MVA*
 
-The project is based on [Riemann manifold Langevin and Hamiltonian MonteCarlo methods](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.472.3640&rep=rep1&type=pdf) from  Mark Girolami and Ben Calderhead 
+The project is based on [Riemann manifold Langevin and Hamiltonian Monte Carlo methods](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.472.3640&rep=rep1&type=pdf) from  Mark Girolami and Ben Calderhead 
 
 **Abstract**: 
 When one try to sample from a target *p*, one may use several MCMC Sampling methods as (HM, MALA, Gibbs ...). However, when dimension reaches medium or big size, these sampling methods demonstrate either poor acceptance ratios (when one deal with rejection methods) or high samples correlation. This paper proposes to use a Riemann manifold based approach to deal with these issues.
