@@ -9,11 +9,13 @@ When one try to sample from a target *p*, one may use several MCMC Sampling meth
 ## Experiments
 Demonstration of shortcomings of classic Monte Carlo methods
 
-### Hasting Metropolis Sampler 
+### Hasting Metropolis Sampler
+- Code
 - Acceptance ratio
 - Autocorrelation
 
 ### Hamiltonian Monte Carlo Sampler
+- Code
 - Influence of leapfrog integrator
 - Acceptance ratio
 - Influence of mass matrix
