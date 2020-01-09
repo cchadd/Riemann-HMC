@@ -1,5 +1,5 @@
 # Riemann-HMC
-Computation Statistics project
+*Computational Statistics project - MVA*
 
 The project is based on [Riemann manifold Langevin and Hamiltonian MonteCarlo methods](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.472.3640&rep=rep1&type=pdf) from  Mark Girolami and Ben Calderhead 
 
